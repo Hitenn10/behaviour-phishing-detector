@@ -1,0 +1,12 @@
+﻿data/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.csv
+*.mbox
+*.pdf
+*.docx
+venv/
+notes.md
+notebooks/
